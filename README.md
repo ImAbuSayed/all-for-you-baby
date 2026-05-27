@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/all-for-you-baby/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For All For You Baby](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/all-for-you-baby/) |
+| **Get License** | [Official Music Licensing for All For You Baby](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/all-for-you-baby/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `90b9a0ef7557bd592f6366edea1f423ff1c5dd58ed9fb3d27db7d9ca43f0f7bb` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - All For You Baby
+
+This log tracks the cryptographic history and versioning for the song **All For You Baby** (all-for-you-baby).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T15:02:30.566435 | `v1` | `90b9a0ef7557bd592f6366edea1f423ff1c5dd58ed9fb3d27db7d9ca43f0f7bb` | `dc5ffbddae715dd154944cb7837fa616d7f059b7092c7f00174fffb9991e3780` | `2026-05-27_all-for-you-baby-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
