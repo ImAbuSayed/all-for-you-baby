@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/all-for-you-baby/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: All For You Baby](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/all-for-you-baby/) |
+| **Get License** | [Get License For All For You Baby](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/all-for-you-baby/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, this is all for you, every winding mile
+> I’ve been driving through the dark just to see your smile
+> We got nothing but the shadows and a restless heart
+> I’ve been craving all your magic right from the start
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
